@@ -20,8 +20,8 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 
 ## Experiment:
-![Screenshot from 2023-11-18 15-32-14](https://github.com/sanjayofficial2005/Single-server-infinite-capacity---Markov-Model/assets/148048602/ff775b18-f376-470c-80d2-a69aad43b001)
-![Screenshot from 2023-11-18 15-32-25](https://github.com/sanjayofficial2005/Single-server-infinite-capacity---Markov-Model/assets/148048602/b43a4c79-fae2-4fd7-82b8-78411b0aa6b3)
+![Screenshot from 2023-11-18 15-32-14](https://github.com/oviya49/Single-server-infinite-capacity---Markov-Model/assets/148048602/ff775b18-f376-470c-80d2-a69aad43b001)
+![Screenshot from 2023-11-18 15-32-25](https://github.com/oviya49/Single-server-infinite-capacity---Markov-Model/assets/148048602/b43a4c79-fae2-4fd7-82b8-78411b0aa6b3)
 
 
 
@@ -33,7 +33,8 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 
 
-![image](https://github.com/sanjayofficial2005/Single-server-infinite-capacity---Markov-Model/assets/153576803/c4ef1161-d56f-4f1d-a083-4f91711d3f15)
+![image](https://github.com/Oviya49/Single-server-infinite-capacity---Markov-Model/assets/153576803/54bafe99-e0ba-4cd0-a65b-de175d007a25)
+
 
 
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
@@ -65,7 +66,7 @@ print("---------------------------------------------------------------")
 
 
 ## Output :
-![ex 04 output pqm](https://github.com/sanjayofficial2005/Single-server-infinite-capacity---Markov-Model/assets/148048602/5484627e-edf4-462a-a878-52eb6eec4dd4)
+![ex 04 output pqm](https://github.com/oviya49/Single-server-infinite-capacity---Markov-Model/assets/148048602/5484627e-edf4-462a-a878-52eb6eec4dd4)
 
 
 
